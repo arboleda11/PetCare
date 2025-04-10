@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCare.API", "PetCare.API\PetCare.API.csproj", "{F8A10F4B-B04E-4398-A869-69FF03A7AD20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCare.WEB", "PetCare.WEB\PetCare.WEB.csproj", "{38C254A3-B9DF-4229-A28D-EF251541DAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A10F4B-B04E-4398-A869-69FF03A7AD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A10F4B-B04E-4398-A869-69FF03A7AD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A10F4B-B04E-4398-A869-69FF03A7AD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A10F4B-B04E-4398-A869-69FF03A7AD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C254A3-B9DF-4229-A28D-EF251541DAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C254A3-B9DF-4229-A28D-EF251541DAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C254A3-B9DF-4229-A28D-EF251541DAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C254A3-B9DF-4229-A28D-EF251541DAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEEC322-EF02-4312-A1DB-E52778095662}
+	EndGlobalSection
+EndGlobal
